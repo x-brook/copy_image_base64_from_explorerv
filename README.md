@@ -1,0 +1,2 @@
+# copy_image_base64_from_explorerv
+这是一个专为Windows系统设计的工具，用于快速获取资源管理器（文件夹）中选中图片文件的Base64编码。
